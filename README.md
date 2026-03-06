@@ -108,11 +108,11 @@ Below are some screenshots showcasing the main interfaces of the GymAccess platf
 <img width="919" height="530" alt="Packs" src="https://github.com/user-attachments/assets/eb1161d2-a60a-4709-b63e-6ad302ee9905" />
 <img width="917" height="505" alt="Photos" src="https://github.com/user-attachments/assets/7ba96fbd-4873-4634-ad18-b54290463f00" />
 
-![Image_image](https://github.com/user-attachments/assets/fb1cdfbe-d618-4022-8c9e-a36aaa8b21fd)<img width="918" height="536" alt="Login" src="https://github.com/user-attachments/assets/774e0865-ea62-4d25-9ade-905d4e5cdfec" />
+
 <img width="917" height="508" alt="Subscription" src="https://github.com/user-attachments/assets/6c09225c-d9f3-4ced-a70e-d4237f6851ed" />
 <img width="923" height="494" alt="Subscription_list" src="https://github.com/user-attachments/assets/f0d641bd-f6b8-45a6-b149-1d3df6095237" />
 
 <img width="921" height="513" alt="Access_log" src="https://github.com/user-attachments/assets/514f4a4f-d24d-4747-8588-a3d554d3b0d9" />
-[3 solutions.docx](https://github.com/user-attachments/files/25805132/3.solutions.docx)
-[Nouveau Document texte (2).txt](https://github.com/user-attachments/files/25805131/Nouveau.Document.texte.2.txt)
+
+
 <img width="919" height="530" alt="Packs" src="https://github.com/user-attachments/assets/f517e7f3-44b8-4c05-87a2-28826f88894e" />
