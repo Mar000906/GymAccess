@@ -98,11 +98,10 @@ Below are some screenshots showcasing the main interfaces of the GymAccess platf
 <img width="921" height="505" alt="Add_user" src="https://github.com/user-attachments/assets/beb7058f-03df-4473-8de0-d005e74c65ba" />
 
 <img width="918" height="530" alt="Caisse" src="https://github.com/user-attachments/assets/6aede5d4-e33a-477c-ba82-e7ee3205bac4" /><img width="917" height="500" alt="Assign_pack" src="https://github.com/user-attachments/assets/ce4498e1-fca2-40ae-b1d4-c5983c15687a" />
-<img width="918" height="532" alt="Dashboard" src="https://github.com/user-attachments/assets/eb4cd3e2-e664-4d6b-bec1-2fada790b108" />
+
 <img width="921" height="506" alt="Factures" src="https://github.com/user-attachments/assets/d3d51fb7-2871-464e-ba72-fa64aa32eb33" />
 <img width="921" height="513" alt="Access_log" src="https://github.com/user-attachments/assets/e8165d17-4f64-4ac9-ad79-5dfb27c95303" />
 <img width="1345" height="784" alt="Gemini_Generated_Image_jdfob5jdfob5jdfo" src="https://github.com/user-attachments/assets/8157da40-53e7-45ac-abfc-8e0858150751" />
-<img width="921" height="506" alt="Factures" src="https://github.com/user-attachments/assets/87d41dac-f4a0-4aea-ae27-2a11fd5213b9" /><img width="1356" height="784" alt="Gemini_Generated_Image_mj9p6gmj9p6gmj9p" src="https://github.com/user-attachments/assets/669f06c3-cbbd-400c-8f7b-688cff7eb17e" />
 <img width="917" height="530" alt="History" src="https://github.com/user-attachments/assets/57aa32cf-595e-404b-a7f5-5c35fa558014" />
 <img width="917" height="530" alt="History" src="https://github.com/user-attachments/assets/62bedf1a-58c8-44fa-844d-0e5881a1b3ed" />
 <img width="918" height="530" alt="Caisse" src="https://github.com/user-attachments/assets/49561d66-21a4-4c3d-a761-aa7d6c657f90" />
