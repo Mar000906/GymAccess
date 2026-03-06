@@ -101,7 +101,7 @@ Below are some screenshots showcasing the main interfaces of the GymAccess platf
 
 <img width="921" height="506" alt="Factures" src="https://github.com/user-attachments/assets/d3d51fb7-2871-464e-ba72-fa64aa32eb33" />
 <img width="921" height="513" alt="Access_log" src="https://github.com/user-attachments/assets/e8165d17-4f64-4ac9-ad79-5dfb27c95303" />
-<img width="1345" height="784" alt="Gemini_Generated_Image_jdfob5jdfob5jdfo" src="https://github.com/user-attachments/assets/8157da40-53e7-45ac-abfc-8e0858150751" />
+
 <img width="917" height="530" alt="History" src="https://github.com/user-attachments/assets/57aa32cf-595e-404b-a7f5-5c35fa558014" />
 <img width="917" height="530" alt="History" src="https://github.com/user-attachments/assets/62bedf1a-58c8-44fa-844d-0e5881a1b3ed" />
 <img width="918" height="530" alt="Caisse" src="https://github.com/user-attachments/assets/49561d66-21a4-4c3d-a761-aa7d6c657f90" />
